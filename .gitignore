@@ -6,4 +6,4 @@
 *.ear
 
 # Bin-Folders #
-target
+target/
