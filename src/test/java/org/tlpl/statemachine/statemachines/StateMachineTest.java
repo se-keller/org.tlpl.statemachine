@@ -1,14 +1,12 @@
 package org.tlpl.statemachine.statemachines;
 
-import junit.framework.Assert;
-
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.tlpl.statemachine.IState;
 import org.tlpl.statemachine.IStateMachine;
 import org.tlpl.statemachine.events.SignalEvent;
 import org.tlpl.statemachine.exceptions.StateMachineException;
-import org.tlpl.statemachine.statemachines.EmptyStateMachine;
 import org.tlpl.statemachine.states.SimpleState;
 import org.tlpl.statemachine.states.pseudo.Fork;
 import org.tlpl.statemachine.states.pseudo.Join;

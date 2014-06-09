@@ -1,10 +1,8 @@
 package org.tlpl.statemachine.constraints;
 
-import junit.framework.Assert;
-
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.tlpl.statemachine.constraints.FalseConstraint;
 
 
 public class FalseConstraintTest {

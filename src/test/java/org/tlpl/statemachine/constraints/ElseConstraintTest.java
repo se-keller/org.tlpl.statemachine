@@ -1,12 +1,8 @@
 package org.tlpl.statemachine.constraints;
 
-import junit.framework.Assert;
-
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.tlpl.statemachine.constraints.Constraint;
-import org.tlpl.statemachine.constraints.ElseConstraint;
-import org.tlpl.statemachine.constraints.TrueConstraint;
 
 
 public class ElseConstraintTest {
